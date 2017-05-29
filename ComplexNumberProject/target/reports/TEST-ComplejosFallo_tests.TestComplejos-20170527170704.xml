@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="1" name="ComplejosFallo_tests.TestComplejos-20170527170704" skipped="0" tests="4" time="0.000">
+	<testcase classname="ComplejosFallo_tests.TestComplejos" name="test_multiplicar" time="0.000"/>
+	<testcase classname="ComplejosFallo_tests.TestComplejos" name="test_prueba" time="0.000"/>
+	<testcase classname="ComplejosFallo_tests.TestComplejos" name="test_restar" time="0.000"/>
+	<testcase classname="ComplejosFallo_tests.TestComplejos" name="test_sumar" time="0.000">
+		<failure message="&lt;Complejos.Complejo object at 0x7fdfb20592e8&gt; != &lt;Complejos.Complejo object at 0x7fdfb2059080&gt;" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/juaniyoalm/PythonProject/ComplexNumberProject/src/unittest/python/ComplejosFallo_tests.py", line 11, in test_sumar
+    self.assertEqual(n1.sumar(n2), n_res)
+AssertionError: <Complejos.Complejo object at 0x7fdfb20592e8> != <Complejos.Complejo object at 0x7fdfb2059080>
+]]>		</failure>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

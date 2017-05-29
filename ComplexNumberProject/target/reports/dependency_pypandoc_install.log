@@ -1,0 +1,12 @@
+Collecting pypandoc~=1.3.0
+  Downloading pypandoc-1.3.3.tar.gz
+Requirement already satisfied: setuptools in /home/juaniyoalm/Entornos/presentacion/lib/python3.6/site-packages (from pypandoc~=1.3.0)
+Requirement already satisfied: pip>=8.1.0 in /home/juaniyoalm/Entornos/presentacion/lib/python3.6/site-packages (from pypandoc~=1.3.0)
+Requirement already satisfied: wheel>=0.25.0 in /home/juaniyoalm/Entornos/presentacion/lib/python3.6/site-packages (from pypandoc~=1.3.0)
+Building wheels for collected packages: pypandoc
+  Running setup.py bdist_wheel for pypandoc: started
+  Running setup.py bdist_wheel for pypandoc: finished with status 'done'
+  Stored in directory: /home/juaniyoalm/.cache/pip/wheels/ae/ad/24/8ae56cccee848926ed5cb93f2d80dc3e9b6840b179d9b4936e
+Successfully built pypandoc
+Installing collected packages: pypandoc
+Successfully installed pypandoc-1.3.3

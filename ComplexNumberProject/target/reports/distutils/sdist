@@ -1,0 +1,36 @@
+running clean
+'build/lib' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-3.6' does not exist -- can't clean it
+running sdist
+running egg_info
+creating ComplexNumberProject.egg-info
+writing ComplexNumberProject.egg-info/PKG-INFO
+writing dependency_links to ComplexNumberProject.egg-info/dependency_links.txt
+writing namespace_packages to ComplexNumberProject.egg-info/namespace_packages.txt
+writing top-level names to ComplexNumberProject.egg-info/top_level.txt
+writing manifest file 'ComplexNumberProject.egg-info/SOURCES.txt'
+reading manifest file 'ComplexNumberProject.egg-info/SOURCES.txt'
+writing manifest file 'ComplexNumberProject.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt
+
+running check
+warning: check: missing required meta-data: url
+
+warning: check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating ComplexNumberProject-1.0.dev0
+creating ComplexNumberProject-1.0.dev0/ComplexNumberProject.egg-info
+copying files to ComplexNumberProject-1.0.dev0...
+copying Complejos.py -> ComplexNumberProject-1.0.dev0
+copying setup.py -> ComplexNumberProject-1.0.dev0
+copying ComplexNumberProject.egg-info/PKG-INFO -> ComplexNumberProject-1.0.dev0/ComplexNumberProject.egg-info
+copying ComplexNumberProject.egg-info/SOURCES.txt -> ComplexNumberProject-1.0.dev0/ComplexNumberProject.egg-info
+copying ComplexNumberProject.egg-info/dependency_links.txt -> ComplexNumberProject-1.0.dev0/ComplexNumberProject.egg-info
+copying ComplexNumberProject.egg-info/namespace_packages.txt -> ComplexNumberProject-1.0.dev0/ComplexNumberProject.egg-info
+copying ComplexNumberProject.egg-info/top_level.txt -> ComplexNumberProject-1.0.dev0/ComplexNumberProject.egg-info
+copying ComplexNumberProject.egg-info/zip-safe -> ComplexNumberProject-1.0.dev0/ComplexNumberProject.egg-info
+Writing ComplexNumberProject-1.0.dev0/setup.cfg
+creating dist
+Creating tar archive
+removing 'ComplexNumberProject-1.0.dev0' (and everything under it)
